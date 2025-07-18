@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Rhayana! 👋
 
-<!--
-**rhayanatds/rhayanatds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou ingressante na área de TI, interessada por **desenvolvimento de software** e **metodologias ágeis**. Estou focada em aprender e evoluir constantemente, buscando participar de projetos inovadores e colaborar em equipes multidisciplinares.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de tecnologia
+- 💻 Interesse em programação, projetos ágeis (Scrum, Kanban) e boas práticas de desenvolvimento
+- 📚 Estou sempre buscando cursos, certificações e oportunidades para aplicar meus conhecimentos
+- 🤝 Aberta para networking, colaboração em projetos e aprendizado conjunto
+
+## 🛠️ Tecnologias que estou estudando
+
+- **Linguagens:** Python, Java
+- **Ferramentas:** Git & GitHub, Trello, Jira
+- **Metodologias Ágeis:** Scrum, Kanban
+
+## 📣 Conecte-se comigo
+
+- [LinkedIn](https://www.linkedin.com/in/rhayanatds/)
+
+---
+
+> “A tecnologia transforma o mundo, mas são as pessoas que fazem a diferença.”
